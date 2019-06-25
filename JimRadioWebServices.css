@@ -1,0 +1,43 @@
+﻿/*----------------------------------------------------
+Trendy orange                                       */                
+.title
+{    
+    color: #ED7F09;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.AccentColor
+{
+    color: #ED7F09;
+    font-weight: bold;
+}
+
+/*----------------------------------------------------
+FaceBook blue
+NOTE: This style is assigned by the WSDL process: */
+.intro
+{
+    color: #3B5997;
+}
+
+.BaseColorBold
+{
+    color: #3B5997;
+    font-weight: bold;
+}
+
+.JimRadio {
+    color: White;
+    background-color: #3B5997;
+    font-weight: bold;
+    font-family: 'Comic Sans MS';
+    font-size: 18px;
+}
+
+.JimRadioImage
+{
+    vertical-align: bottom;
+}
+
+/*----------------------------------------------------*/

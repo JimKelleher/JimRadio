@@ -1,0 +1,14 @@
+﻿
+https://stackoverflow.com/questions/31793894/comic-sans-font-not-showing-on-mobile
+
+Comic Sans Font Not Showing on Mobile
+
+-----------------------------------------------------------------------------------
+
+I just found the simple solution for this, you just need to override the font file
+using font face like so:
+
+@font-face {
+  font-family: 'Comic Sans MS';
+  src: url("comic-sans-ms/comici.ttf");
+}
